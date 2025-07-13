@@ -11,7 +11,7 @@ Here are some small projects currently (or soon to be) available in this repo:
 | 📁 Folder/Script | 📋 Short Description                       |
 |-----------------|-------------------------------------------|
 | `gif.py`        | Create a GIF file from multiple PNG images |
-| `...`           | (Add your new projects here)              |
+| `...`           | (Another mini code coming soon)              |
 
 ---
 
